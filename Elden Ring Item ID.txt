@@ -1,0 +1,975 @@
+### Armor ###		
+		
+HD_M_1010	Iron Helmet
+BD_M_1010	Scale Armor
+AM_M_1010	Iron Gauntlets
+LG_M_1010	Leather Trousers
+HD_M_1840	Kaiden Helm
+BD_M_1840	Kaiden Armor
+AM_M_1840	Kaiden Gauntlets
+LG_M_1840	Kaiden Trousers
+HD_M_1100	Drake Knight Helm
+BD_M_1100	Drake Knight Armor
+AM_M_1100	Drake Knight Gauntlets
+LG_M_1100	Drake Knight Greaves
+HD_M_1101	Drake Knight Helm (Altered)
+BD_M_1101	Drake Knight Armor (Altered)
+HD_M_1120	Scaled Helm
+BD_M_1120	Scaled Armor
+AM_M_1120	Scaled Gauntlets
+LG_M_1120	Scaled Greaves
+BD_M_1121	Scaled Armor (Altered)
+HD_M_1130	Perfumer Hood
+BD_M_1130	Perfumer Robe
+AM_M_1130	Perfumer Gloves
+LG_M_1130	Perfumer Sarong
+BD_M_1131	Perfumer Robe (Altered)
+HD_M_1140	Traveler's Hat
+BD_M_1140	Perfumer's Traveling Garb
+AM_M_1140	Traveler's Gloves
+LG_M_1140	Traveler's Slops
+BD_M_1141	Perfumer's Traveling Garb (Altered)
+HD_M_1160	Alberich's Pointed Hat
+BD_M_1160	Alberich's Robe
+AM_M_1160	Alberich's Bracers
+LG_M_1160	Alberich's Trousers
+HD_M_1161	Alberich's Pointed Hat (Altered)
+BD_M_1161	Alberich's Robe (Altered)
+HD_M_1170	Spellblade's Pointed Hat
+BD_M_1170	Spellblade's Traveling Attire
+AM_M_1170	Spellblade's Gloves
+LG_M_1170	Spellblade's Trousers
+BD_M_1171	Spellblade's Traveling Attire (Altered)
+HD_M_1180	Bull-Goat Helm
+BD_M_1180	Bull-Goat Armor
+AM_M_1180	Bull-Goat Gauntlets
+LG_M_1180	Bull-Goat Greaves
+HD_M_1190	Iron Kasa
+BD_M_1190	Ronin's Armor
+AM_M_1190	Ronin's Gauntlets
+LG_M_1190	Ronin's Greaves
+BD_M_1191	Ronin's Armor (Altered)
+HD_M_1200	Guilty Hood
+BD_M_1200	Cloth Garb
+LG_M_1200	Cloth Trousers
+HD_M_1600	Black Wolf Mask
+BD_M_1600	Blaidd's Armor
+AM_M_1600	Blaidd's Gauntlets
+LG_M_1600	Blaidd's Greaves
+BD_M_1601	Blaidd's Armor (Altered)
+HD_M_1610	Black Knife Hood
+BD_M_1610	Black Knife Armor
+AM_M_1610	Black Knife Gauntlets
+LG_M_1610	Black Knife Greaves
+BD_M_1611	Black Knife Armor (Altered)
+HD_M_1640	Exile Hood
+BD_M_1640	Exile Armor
+AM_M_1640	Exile Gauntlets
+LG_M_1640	Exile Greaves
+HD_M_1650	Banished Knight Helm
+BD_M_1650	Banished Knight Armor
+AM_M_1650	Banished Knight Gauntlets
+LG_M_1650	Banished Knight Greaves
+HD_M_1651	Banished Knight Helm (Altered)
+BD_M_1651	Banished Knight Armor (Altered)
+HD_M_1670	Briar Helm
+BD_M_1670	Briar Armor
+AM_M_1670	Briar Gauntlets
+LG_M_1670	Briar Greaves
+BD_M_1671	Briar Armor (Altered)
+HD_M_1680	Page Hood
+BD_M_1680	Page Garb
+LG_M_1680	Page Trousers
+BD_M_1681	Page Garb (Altered)
+HD_M_1690	Night's Cavalry Helm
+BD_M_1690	Night's Cavalry Armor
+AM_M_1690	Night's Cavalry Gauntlets
+LG_M_1690	Night's Cavalry Greaves
+HD_M_1691	Night's Cavalry Helm (Altered)
+BD_M_1691	Night's Cavalry Armor (Altered)
+HD_M_1700	Blue Silver Mail Hood
+BD_M_1700	Blue Silver Mail Armor
+AM_M_1700	Blue Silver Bracelets
+LG_M_1700	Blue Silver Mail Skirt
+BD_M_1701	Blue Silver Mail Armor (Altered)
+HD_M_1710	Nomadic Merchant's Chapeau
+BD_M_1710	Nomadic Merchant's Finery
+LG_M_1710	Nomadic Merchant's Trousers
+BD_M_1711	Nomadic Merchant's Finery (Altered)
+HD_M_1720	Malformed Dragon Helm
+BD_M_1720	Malformed Dragon Armor
+AM_M_1720	Malformed Dragon Gauntlets
+LG_M_1720	Malformed Dragon Greaves
+HD_M_1730	Tree Sentinel Helm
+BD_M_1730	Tree Sentinel Armor
+AM_M_1730	Tree Sentinel Gauntlets
+LG_M_1730	Tree Sentinel Greaves
+BD_M_1731	Tree Sentinel Armor (Altered)
+HD_M_1740	Royal Knight Helm
+BD_M_1740	Royal Knight Armor
+AM_M_1740	Royal Knight Gauntlets
+LG_M_1740	Royal Knight Greaves
+BD_M_1741	Royal Knight Armor (Altered)
+HD_M_1750	Nox Monk Hood
+BD_M_1750	Nox Monk Armor
+AM_M_1750	Nox Monk Bracelets
+LG_M_1750	Nox Monk Greaves
+HD_M_1751	Nox Monk Hood (Altered)
+BD_M_1751	Nox Monk Armor (Altered)
+HD_M_1755	Nox Swordstress Crown
+BD_M_1755	Nox Swordstress Armor
+HD_M_2630	Night Maiden Twin Crown
+BD_M_2630	Night Maiden Armor
+HD_M_1756	Nox Swordstress Crown (Altered)
+BD_M_1756	Nox Swordstress Armor (Altered)
+HD_M_1760	Great Horned Headband
+BD_M_1760	Fur Raiment
+LG_M_1760	Fur Leggings
+HD_M_1765	Shining Horned Headband
+BD_M_1765	Shaman Furs
+LG_M_1765	Shaman Leggings
+HD_M_1770	Duelist Helm
+BD_M_1770	Gravekeeper Cloak
+LG_M_1770	Duelist Greaves
+BD_M_1771	Gravekeeper Cloak (Altered)
+HD_M_1790	Sanguine Noble Hood
+BD_M_1790	Sanguine Noble Robe
+LG_M_1790	Sanguine Noble Waistcloth
+HD_M_1800	Guardian Mask
+BD_M_1800	Guardian Garb (Full Bloom)
+AM_M_1800	Guardian Bracers
+LG_M_1800	Guardian Greaves
+BD_M_1801	Guardian Garb
+HD_M_1810	Cleanrot Helm
+BD_M_1810	Cleanrot Armor
+AM_M_1810	Cleanrot Gauntlets
+LG_M_1810	Cleanrot Greaves
+HD_M_1811	Cleanrot Helm (Altered)
+BD_M_1811	Cleanrot Armor (Altered)
+HD_M_1820	Fire Monk Hood
+BD_M_1820	Fire Monk Armor
+AM_M_1820	Fire Monk Gauntlets
+LG_M_1820	Fire Monk Greaves
+HD_M_1825	Blackflame Monk Hood
+BD_M_1825	Blackflame Monk Armor
+AM_M_1825	Blackflame Monk Gauntlets
+LG_M_1825	Blackflame Monk Greaves
+HD_M_1830	Fire Prelate Helm
+BD_M_1830	Fire Prelate Armor
+AM_M_1830	Fire Prelate Gauntlets
+LG_M_1830	Fire Prelate Greaves
+BD_M_1831	Fire Prelate Armor (Altered)
+HD_M_1860	Aristocrat Headband
+BD_M_1860	Aristocrat Garb
+LG_M_1860	Aristocrat Boots
+BD_M_1861	Aristocrat Garb (Altered)
+HD_M_1870	Aristocrat Hat
+BD_M_1870	Aristocrat Coat
+HD_M_1880	Old Aristocrat Cowl
+BD_M_1880	Old Aristocrat Gown
+LG_M_1880	Old Aristocrat Shoes
+HD_M_1930	Vulgar Militia Helm
+BD_M_1930	Vulgar Militia Armor
+AM_M_1930	Vulgar Militia Gauntlets
+LG_M_1930	Vulgar Militia Greaves
+HD_M_1940	Sage Hood
+BD_M_1940	Sage Robe
+LG_M_1940	Sage Trousers
+HD_M_1950	Pumpkin Helm
+HD_M_2000	Elden Lord Crown
+BD_M_2000	Elden Lord Armor
+AM_M_2000	Elden Lord Bracers
+LG_M_2000	Elden Lord Greaves
+BD_M_2001	Elden Lord Armor (Altered)
+HD_M_2010	Radahn's Redmane Helm
+BD_M_2010	Radahn's Lion Armor
+AM_M_2010	Radahn's Gauntlets
+LG_M_2010	Radahn's Greaves
+BD_M_2011	Radahn's Lion Armor (Altered)
+BD_M_2020	Lord of Blood's Robe
+BD_M_2021	Lord of Blood's Robe (Altered)
+HD_M_2050	Queen's Crescent Crown
+BD_M_2050	Queen's Robe
+AM_M_2050	Queen's Bracelets
+LG_M_2050	Queen's Leggings
+HD_M_2060	Godskin Apostle Hood
+BD_M_2060	Godskin Apostle Robe
+AM_M_2060	Godskin Apostle Bracelets
+LG_M_2060	Godskin Apostle Trousers
+HD_M_2070	Godskin Noble Hood
+BD_M_2070	Godskin Noble Robe
+AM_M_2070	Godskin Noble Bracelets
+LG_M_2070	Godskin Noble Trousers
+HD_M_2080	Depraved Perfumer Headscarf
+BD_M_2080	Depraved Perfumer Robe
+AM_M_2080	Depraved Perfumer Gloves
+LG_M_2080	Depraved Perfumer Trousers
+BD_M_2081	Depraved Perfumer Robe (Altered)
+HD_M_2110	Crucible Axe Helm
+BD_M_2110	Crucible Axe Armor
+AM_M_2110	Crucible Gauntlets
+LG_M_2110	Crucible Greaves
+HD_M_2115	Crucible Tree Helm
+BD_M_2115	Crucible Tree Armor
+BD_M_2111	Crucible Axe Armor (Altered)
+BD_M_2116	Crucible Tree Armor (Altered)
+HD_M_2120	Lusat's Glintstone Crown
+BD_M_2120	Lusat's Robe
+AM_M_2120	Lusat's Manchettes
+LG_M_2120	Old Sorcerer's Legwraps
+HD_M_2125	Azur's Glintstone Crown
+BD_M_2125	Azur's Glintstone Robe
+AM_M_2125	Azur's Manchettes
+HD_M_1210	All-Knowing Helm
+BD_M_1210	All-Knowing Armor
+AM_M_1210	All-Knowing Gauntlets
+LG_M_1210	All-Knowing Greaves
+BD_M_1211	All-Knowing Armor (Altered)
+HD_M_1220	Twinned Helm
+BD_M_1220	Twinned Armor
+AM_M_1220	Twinned Gauntlets
+LG_M_1220	Twinned Greaves
+BD_M_1221	Twinned Armor (Altered)
+HD_M_1230	Ragged Hat
+BD_M_1230	Ragged Armor
+AM_M_1230	Ragged Gloves
+LG_M_1230	Ragged Loincloth
+HD_M_1231	Ragged Hat (Altered)
+BD_M_1231	Ragged Armor (Altered)
+HD_M_1240	Prophet Blindfold
+BD_M_1240	Corhyn's Robe
+LG_M_1240	Prophet Trousers
+BD_M_1241	Prophet Robe (Altered)
+BD_M_1245	Prophet Robe
+HD_M_1250	Astrologer Hood
+BD_M_1250	Astrologer Robe
+AM_M_1250	Astrologer Gloves
+LG_M_1250	Astrologer Trousers
+BD_M_1251	Astrologer Robe (Altered)
+HD_M_1260	Lionel's Helm
+BD_M_1260	Lionel's Armor
+AM_M_1260	Lionel's Gauntlets
+LG_M_1260	Lionel's Greaves
+BD_M_1261	Lionel's Armor (Altered)
+HD_M_1270	Hoslow's Helm
+BD_M_1270	Hoslow's Armor
+AM_M_1270	Hoslow's Gauntlets
+LG_M_1270	Hoslow's Greaves
+HD_M_1275	Diallos's Mask
+BD_M_1271	Hoslow's Armor (Altered)
+HD_M_1280	Vagabond Knight Helm
+BD_M_1280	Vagabond Knight Armor
+AM_M_1280	Vagabond Knight Gauntlets
+LG_M_1280	Vagabond Knight Greaves
+BD_M_1281	Vagabond Knight Armor (Altered)
+HD_M_1290	Blue Cloth Cowl
+BD_M_1290	Blue Cloth Vest
+AM_M_1290	Warrior Gauntlets
+LG_M_1290	Warrior Greaves
+HD_M_1300	White Mask
+BD_M_1300	War Surgeon Gown
+AM_M_1300	War Surgeon Gloves
+LG_M_1300	War Surgeon Trousers
+BD_M_1301	War Surgeon Gown (Altered)
+HD_M_1310	Royal Remains Helm
+BD_M_1310	Royal Remains Armor
+AM_M_1310	Royal Remains Gauntlets
+LG_M_1310	Royal Remains Greaves
+HD_M_1320	Brave's Cord Circlet
+BD_M_1320	Brave's Battlewear
+AM_M_1320	Brave's Bracer
+LG_M_1320	Brave's Legwraps
+HD_M_1325	Brave's Leather Helm
+HD_M_1321	Brave's Battlewear (Altered)
+HD_M_1330	Beast Champion Helm
+BD_M_1330	Beast Champion Armor
+AM_M_1330	Beast Champion Gauntlets
+LG_M_1330	Beast Champion Greaves
+BD_M_1331	Beast Champion Armor (Altered)
+HD_M_1380	Champion Headband
+BD_M_1380	Champion Pauldron
+AM_M_1380	Champion Bracers
+LG_M_1380	Champion Gaiters
+HD_M_1390	Crimson Hood
+BD_M_1390	Noble's Traveling Garb
+AM_M_1390	Noble's Gloves
+LG_M_1390	Noble's Trousers
+HD_M_1395	Navy Hood
+HD_M_1620	Maliketh's Helm
+BD_M_1620	Maliketh's Armor
+AM_M_1620	Maliketh's Gauntlets
+LG_M_1620	Maliketh's Greaves
+BD_M_1621	Maliketh's Armor (Altered)
+HD_M_1630	Malenia's Winged Helm
+BD_M_1630	Malenia's Armor
+AM_M_1630	Malenia's Gauntlet
+LG_M_1630	Malenia's Greaves
+BD_M_1631	Malenia's Armor (Altered)
+HD_M_1660	Veteran's Helm
+BD_M_1660	Veteran's Armor
+AM_M_1660	Veteran's Gauntlets
+LG_M_1660	Veteran's Greaves
+BD_M_1661	Veteran's Armor (Altered)
+HD_M_1850	Bloodhound Knight Helm
+BD_M_1850	Bloodhound Knight Armor
+AM_M_1850	Bloodhound Knight Gauntlets
+LG_M_1850	Bloodhound Knight Greaves
+BD_M_1851	Bloodhound Knight Armor (Altered)
+HD_M_2130	Festive Hood
+BD_M_2130	Festive Garb
+HD_M_2131	Festive Hood (Altered)
+BD_M_2131	Festive Garb (Altered)
+HD_M_2135	Blue Festive Hood
+BD_M_2135	Blue Festive Garb
+HD_M_2140	Commoner's Headband
+BD_M_2140	Commoner's Garb
+LG_M_2140	Commoner's Shoes
+HD_M_2141	Commoner's Headband (Altered)
+BD_M_2141	Commoner's Garb (Altered)
+HD_M_2145	Commoner's Simple Garb
+BD_M_2146	Commoner's Simple Garb (Altered)
+HD_M_2150	Envoy Crown
+HD_M_2160	Twinsage Glintstone Crown
+BD_M_2160	Raya Lucarian Robe
+AM_M_2160	Sorcerer Manchettes
+LG_M_2160	Sorcerer Leggings
+HD_M_2165	Olivinus Glintstone Crown
+HD_M_2170	Lazuli Glintstone Crown
+HD_M_2175	Karolos Glintstone Crown
+HD_M_2540	Witch's Glintstone Crown
+HD_M_2190	Marionette Soldier Helm
+BD_M_2190	Marionette Soldier Armor
+HD_M_2180	Marionette Soldier Birdhelm
+HD_M_1350	Raging Wolf Helm
+BD_M_1350	Raging Wolf Armor
+AM_M_1350	Raging Wolf Gauntlets
+LG_M_1350	Raging Wolf Greaves
+BD_M_1351	Raging Wolf Armor (Altered)
+HD_M_1360	Land of Reeds Helm
+BD_M_1360	Land of Reeds Armor
+AM_M_1360	Land of Reeds Gauntlets
+LG_M_1360	Land of Reeds Greaves
+BD_M_1361	Land of Reeds Armor (Altered)
+HD_M_1365	Okina Mask
+BD_M_1365	White Reed Armor
+AM_M_1365	White Reed Gauntlets
+LG_M_1365	White Reed Greaves
+HD_M_1400	Confessor Hood
+BD_M_1400	Confessor Armor
+AM_M_1400	Confessor Gloves
+LG_M_1400	Confessor Boots
+HD_M_1401	Confessor Hood (Altered)
+BD_M_1401	Confessor Armor (Altered)
+HD_M_1410	Prisoner Iron Mask
+BD_M_1410	Prisoner Clothing
+LG_M_1410	Prisoner Trousers
+HD_M_1415	Blackguard's Iron Mask
+HD_M_1420	Traveling Maiden Hood
+BD_M_1420	Traveling Maiden Robe
+AM_M_1420	Traveling Maiden Gloves
+LG_M_1420	Traveling Maiden Boots
+BD_M_1421	Traveling Maiden Robe (Altered)
+HD_M_1425	Finger Maiden Fillet
+BD_M_1425	Finger Maiden Robe
+LG_M_1425	Finger Maiden Shoes
+BD_M_1426	Finger Maiden Robe (Altered)
+HD_M_1430	Preceptor's Big Hat
+BD_M_1430	Preceptor's Long Gown
+AM_M_1430	Preceptor's Gloves
+LG_M_1430	Preceptor's Trousers
+HD_M_1431	Mask of Confidence
+BD_M_1431	Preceptor's Long Gown (Altered)
+HD_M_1440	Grass Hair Ornament
+HD_M_1450	Skeletal Mask
+BD_M_1450	Raptor's Black Feathers
+AM_M_1450	Bandit Manchettes
+LG_M_1450	Bandit Boots
+BD_M_1451	Bandit Garb
+HD_M_1460	Eccentric's Hood
+BD_M_1460	Eccentric's Armor
+AM_M_1460	Eccentric's Manchettes
+LG_M_1460	Eccentric's Breeches
+HD_M_1461	Eccentric's Hood (Altered)
+HD_M_1470	Fingerprint Helm
+BD_M_1470	Fingerprint Armor
+AM_M_1470	Fingerprint Gauntlets
+LG_M_1470	Fingerprint Greaves
+BD_M_1471	Fingerprint Armor (Altered)
+HD_M_1480	Consort's Mask
+BD_M_1480	Consort's Robe
+LG_M_1480	Consort's Trousers
+HD_M_1530	Ruler's Mask
+BD_M_1530	Ruler's Robe
+BD_M_1531	Upper-Class Robe
+HD_M_1485	Marais Mask
+BD_M_1485	Marais Robe
+AM_M_1485	Bloodsoaked Manchettes
+HD_M_1486	Bloodsoaked Mask
+BD_M_1486	Official's Attire
+HD_M_1490	Omen Helm
+BD_M_1490	Omen Armor
+AM_M_1490	Omen Gauntlets
+LG_M_1490	Omen Greaves
+HD_M_1500	Carian Knight Helm
+BD_M_1500	Carian Knight Armor
+AM_M_1500	Carian Knight Gauntlets
+LG_M_1500	Carian Knight Greaves
+BD_M_1501	Carian Knight Armor (Altered)
+HD_M_1510	Hierodas Glintstone Crown
+BD_M_1510	Errant Sorcerer Robe
+AM_M_1510	Errant Sorcerer Manchettes
+LG_M_1510	Errant Sorcerer Boots
+BD_M_1511	Errant Sorcerer Robe (Altered)
+HD_M_1520	Haima Glintstone Crown
+BD_M_1520	Battlemage Robe
+AM_M_1520	Battlemage Manchettes
+LG_M_1520	Battlemage Legwraps
+HD_M_2200	Snow Witch Hat
+BD_M_2200	Snow Witch Robe
+LG_M_2200	Snow Witch Skirt
+BD_M_2201	Snow Witch Robe (Altered)
+BD_M_2210	Traveler's Clothes
+AM_M_2210	Traveler's Manchettes
+LG_M_2210	Traveler's Boots
+HD_M_2220	Juvenile Scholar Cap
+BD_M_2220	Juvenile Scholar Robe
+HD_M_2230	Radiant Gold Mask
+BD_M_2230	Goldmask's Rags
+AM_M_2230	Gold Bracelets
+LG_M_2230	Gold Waistwrap
+BD_M_2240	Fell Omen Cloak
+HD_M_2250	Albinauric Mask
+BD_M_2250	Dirty Chainmail
+HD_M_2260	Zamor Mask
+BD_M_2260	Zamor Armor
+AM_M_2260	Zamor Bracelets
+LG_M_2260	Zamor Legwraps
+HD_M_2270	Imp Head (Cat)
+HD_M_2510	Imp Head (Fanged)
+HD_M_2520	Imp Head (Long-Tongued)
+HD_M_2570	Imp Head (Corpse)
+HD_M_2575	Imp Head (Wolf)
+HD_M_2580	Imp Head (Elder)
+HD_M_2280	Silver Tear Mask
+HD_M_1540	Chain Coif
+BD_M_1540	Chain Armor
+AM_M_1540	Chain Gauntlets
+LG_M_1540	Chain Leggings
+HD_M_1545	Greathelm
+BD_M_1545	Eye Surcoat
+BD_M_1546	Tree Surcoat
+HD_M_2290	Octopus Head
+HD_M_2300	Jar
+HD_M_2310	Mushroom Head
+BD_M_2310	Mushroom Body
+AM_M_2310	Mushroom Arms
+LG_M_2310	Mushroom Legs
+HD_M_1550	Nox Mirrorhelm
+HD_M_1555	Iji's Mirrorhelm
+HD_M_1560	Black Hood
+BD_M_1560	Leather Armor
+AM_M_1560	Leather Gloves
+LG_M_1560	Leather Boots
+HD_M_1561	Bandit Mask
+HD_M_1570	Knight Helm
+BD_M_1570	Knight Armor
+AM_M_1570	Knight Gauntlets
+LG_M_1570	Knight Greaves
+HD_M_1580	Greathood
+HD_M_2320	Godrick Soldier Helm
+BD_M_2320	Tree-and-Beast Surcoat
+AM_M_2320	Godrick Soldier Gauntlets
+LG_M_2320	Godrick Soldier Greaves
+HD_M_2330	Raya Lucarian Helm
+BD_M_2330	Cuckoo Surcoat
+AM_M_2330	Raya Lucarian Gauntlets
+LG_M_2330	Raya Lucarian Greaves
+HD_M_2340	Leyndell Soldier Helm
+BD_M_2340	Erdtree Surcoat
+AM_M_2340	Leyndell Soldier Gauntlets
+LG_M_2340	Leyndell Soldier Greaves
+HD_M_2350	Radahn Soldier Helm
+BD_M_2350	Redmane Surcoat
+AM_M_2350	Radahn Soldier Gauntlets
+LG_M_2350	Radahn Soldier Greaves
+BD_M_2360	Mausoleum Surcoat
+AM_M_2360	Mausoleum Gauntlets
+LG_M_2360	Mausoleum Greaves
+HD_M_2370	Haligtree Helm
+BD_M_2370	Haligtree Crest Surcoat
+AM_M_2370	Haligtree Gauntlets
+LG_M_2370	Haligtree Greaves
+HD_M_2380	Gelmir Knight Helm
+BD_M_2380	Gelmir Knight Armor
+AM_M_2380	Gelmir Knight Gauntlets
+LG_M_2380	Gelmir Knight Greaves
+BD_M_2381	Gelmir Knight Armor (Altered)
+HD_M_2390	Godrick Knight Helm
+BD_M_2390	Godrick Knight Armor
+AM_M_2390	Godrick Knight Gauntlets
+LG_M_2390	Godrick Knight Greaves
+BD_M_2391	Godrick Knight Armor (Altered)
+HD_M_2400	Cuckoo Knight Helm
+BD_M_2400	Cuckoo Knight Armor
+AM_M_2400	Cuckoo Knight Gauntlets
+LG_M_2400	Cuckoo Knight Greaves
+BD_M_2401	Cuckoo Knight Armor (Altered)
+HD_M_2410	Leyndell Knight Helm
+BD_M_2410	Leyndell Knight Armor
+AM_M_2410	Leyndell Knight Gauntlets
+LG_M_2410	Leyndell Knight Greaves
+BD_M_2411	Leyndell Knight Armor (Altered)
+HD_M_2420	Redmane Knight Helm
+BD_M_2420	Redmane Knight Armor
+AM_M_2420	Redmane Knight Gauntlets
+LG_M_2420	Redmane Knight Greaves
+BD_M_2421	Redmane Knight Armor (Altered)
+BD_M_2430	Mausoleum Knight Armor
+AM_M_2430	Mausoleum Knight Gauntlets
+LG_M_2430	Mausoleum Knight Greaves
+BD_M_2431	Mausoleum Knight Armor (Altered)
+HD_M_2440	Haligtree Knight Helm
+BD_M_2440	Haligtree Knight Armor
+AM_M_2440	Haligtree Knight Gauntlets
+LG_M_2440	Haligtree Knight Greaves
+BD_M_2441	Haligtree Knight Armor (Altered)
+HD_M_2450	Foot Soldier Cap
+BD_M_2450	Chain-Draped Tabard
+AM_M_2450	Foot Soldier Gauntlets
+LG_M_2450	Foot Soldier Greaves
+HD_M_2460	Foot Soldier Helmet
+BD_M_2460	Foot Soldier Tabard
+HD_M_2470	Gilded Foot Soldier Cap
+BD_M_2470	Leather-Draped Tabard
+HD_M_2480	Foot Soldier Helm
+BD_M_2480	Scarlet Tabard
+BD_M_2490	Bloodsoaked Tabard
+HD_M_2500	Sacred Crown Helm
+BD_M_2500	Ivory-Draped Tabard
+HD_M_2530	Omensmirk Mask
+BD_M_2530	Omenkiller Robe
+AM_M_2530	Omenkiller Long Gloves
+LG_M_2530	Omenkiller Boots
+HD_M_2550	Ash-of-War Scarab
+HD_M_2551	Incantation Scarab
+HD_M_2552	Glintstone Scarab
+HD_M_2555	Crimson Tear Scarab
+HD_M_2560	Cerulean Tear Scarab
+BD_M_1590	Deathbed Dress
+LG_M_1590	Deathbed Smalls
+HD_M_1595	Fia's Hood
+BD_M_1595	Fia's Robe
+BD_M_1596	Fia's Robe (Altered)
+BD_M_2590	Millicent's Robe
+AM_M_2590	Millicent's Gloves
+LG_M_2590	Millicent's Boots
+BD_M_2600	Millicent's Tunic
+AM_M_2600	Golden Prosthetic
+HD_M_2505	Highwayman Hood
+BD_M_2505	Highwayman Cloth Armor
+AM_M_2505	Highwayman Gauntlets
+HD_M_1685	High Page Hood
+BD_M_1685	High Page Clothes
+BD_M_1686	High Page Clothes (Altered)
+HD_M_1775	Rotten Duelist Helm
+BD_M_1775	Rotten Gravekeeper Cloak
+LG_M_1775	Rotten Duelist Greaves
+BD_M_1776	Rotten Gravekeeper Cloak (Altered)
+HD_M_2610	Mushroom Crown
+HD_M_2620	Black Dumpling
+HD_M_2640	Lazuli Robe
+		
+### Weapons ###		
+		
+WP_A_01		Unarmed
+WP_A_0100	Dagger
+WP_A_0101	Black Knife
+WP_A_0102	Parrying Dagger
+WP_A_0103	Misericorde
+WP_A_0105	Reduvia
+WP_A_0110	Bloodstained Dagger
+WP_A_0115	Crystal Knife
+WP_A_0116	Glintstone Kris
+WP_A_0117	Scorpion's Stinger
+WP_A_0118	Great Knife
+WP_A_0120	Wakizashi
+WP_A_0122	Ivory Sickle
+WP_A_0123	Erdsteel Dagger
+WP_A_0124	Blade of Calling
+WP_A_0199	Short Sword
+WP_A_0201	Broadsword
+WP_A_0203	Banished Knight's Greatsword
+WP_A_0204	Alabaster Lord's Sword
+WP_A_0209	Cleanrot Knight's Sword
+WP_A_0210	Watchdog's Greatsword
+WP_A_0211	Noble's Slender Sword
+WP_A_0213	Blasphemous Blade
+WP_A_0214	Weathered Straight Sword
+WP_A_0215	Ornamental Straight Sword
+WP_A_0216	Golden Epitaph
+WP_A_0217	Nox Flowing Sword
+WP_A_0220	Regalia of Eochaid
+WP_A_0222	Coded Sword
+WP_A_0223	Sword of Night and Flame
+WP_A_0224	Crystal Sword
+WP_A_0227	Carian Knight's Sword
+WP_A_0228	Cane Sword
+WP_A_0229	Miquellan Knight's Sword
+WP_A_0230	Sword of St. Trina
+WP_A_0231	Warhawk's Talon
+WP_A_0232	Lazuli Glintstone Sword
+WP_A_0233	Rotten Crystal Sword
+WP_A_0250	Rapier
+WP_A_0251	Rogier's Rapier
+WP_A_0252	Noble's Estoc
+WP_A_0253	Antspur Rapier
+WP_A_0254	Frozen Needle
+WP_A_0300	Estoc
+WP_A_0301	Godskin Stitcher
+WP_A_0302	Bloody Helice
+WP_A_0303	Great epee
+WP_A_0305	Dragon King's Cragblade
+WP_A_0400	Scimitar
+WP_A_0401	Falchion
+WP_A_0402	Shotel
+WP_A_0404	Onyx Lord's Greatsword
+WP_A_0406	Forked Hatchet
+WP_A_0408	Shamshir
+WP_A_0409	Bandit's Curved Sword
+WP_A_0413	Monk's Flameblade
+WP_A_0414	Magma Blade
+WP_A_0416	Celebrant's Sickle
+WP_A_0417	Cinquedea
+WP_A_0418	Flowing Curved Sword
+WP_A_0419	Wing of Astel
+WP_A_0421	Scavenger's Curved Sword
+WP_A_0422	Eclipse Shotel
+WP_A_0423	Serpent-God's Curved Sword
+WP_A_0424	Mantis Blade
+WP_A_0425	Grossmesser
+WP_A_0452	Dismounter
+WP_A_0453	Bloodhound's Fang
+WP_A_0454	Starscourge Greatsword
+WP_A_0455	Magma Wyrm's Scalesword
+WP_A_0456	Zamor Curved Sword
+WP_A_0457	Omen Cleaver
+WP_A_0459	Morgott's Cursed Sword
+WP_A_0500	Beastman's Curved Sword
+WP_A_0502	Beastman's Cleaver
+WP_A_0550	Uchigatana
+WP_A_0551	Nagakiba
+WP_A_0552	Hand of Malenia
+WP_A_0553	Meteoric Ore Blade
+WP_A_0554	Rivers of Blood
+WP_A_0556	Moonveil
+WP_A_0557	Serpentbone Blade
+WP_A_0558	Dragonscale Blade
+WP_A_0600	Bastard Sword
+WP_A_0601	Claymore
+WP_A_0602	Royal Greatsword
+WP_A_0603	Maliketh's Black Blade
+WP_A_0604	Forked Greatsword
+WP_A_0606	Iron Greatsword
+WP_A_0607	Lordsworn's Greatsword
+WP_A_0608	Troll's Golden Sword
+WP_A_0609	Knight's Greatsword
+WP_A_0610	Flamberge
+WP_A_0611	Zweihander
+WP_A_0612	Greatsword
+WP_A_0613	Ordovis's Greatsword
+WP_A_0614	Inseparable Sword
+WP_A_0617	Dark Moon Greatsword
+WP_A_0618	Sacred Relic Sword
+WP_A_0621	Helphen's Steeple
+WP_A_0622	Godslayer's Greatsword
+WP_A_0623	Ruins Greatsword
+WP_A_0625	Marais Executioner's Sword
+WP_A_0626	Grafted Blade Greatsword
+WP_A_0627	Golden Order Greatsword
+WP_A_0628	Sword of Milos
+WP_A_0629	Gargoyle's Greatsword
+WP_A_0630	Troll Knight's Sword
+WP_A_0631	Death's Poker
+WP_A_0632	Gargoyle's Blackblade
+WP_A_0700	Hand Axe
+WP_A_0701	Battle Axe
+WP_A_0705	Jawbone Axe
+WP_A_0706	Iron Cleaver
+WP_A_0707	Ripple Blade
+WP_A_0708	Celebrant's Cleaver
+WP_A_0711	Warped Axe
+WP_A_0712	Great Omenkiller Cleaver
+WP_A_0713	Rusted Anchor
+WP_A_0714	Icerind Hatchet
+WP_A_0716	Highland Axe
+WP_A_0717	Sacrificial Axe
+WP_A_0718	Rosus' Axe
+WP_A_0720	Stormhawk Axe
+WP_A_0750	Greataxe
+WP_A_0752	Crescent Moon Axe
+WP_A_0753	Winged Greathorn
+WP_A_0754	Duelist Greataxe
+WP_A_0755	Axe of Godfrey
+WP_A_0756	Axe of Godrick
+WP_A_0758	Executioner's Greataxe
+WP_A_0761	Butchering Knife
+WP_A_0762	Gargoyle's Great Axe
+WP_A_0763	Gargoyle's Black Axe
+WP_A_0800	Club
+WP_A_0802	Mace
+WP_A_0803	Greathorn Hammer
+WP_A_0804	Battle Hammer
+WP_A_0805	Curved Club
+WP_A_0806	Monk's Flamemace
+WP_A_0807	Watchdog's Staff
+WP_A_0809	Warpick
+WP_A_0812	Morning Star
+WP_A_0814	Varre's Bouquet
+WP_A_0815	Spiked Club
+WP_A_0816	Hammer
+WP_A_0817	Scepter of the All-Knowing
+WP_A_0818	Nox Flowing Hammer
+WP_A_0819	Ringed Finger
+WP_A_0820	Stone Club
+WP_A_0821	Marika's Hammer
+WP_A_0850	Large Club
+WP_A_0851	Great Club
+WP_A_0852	Great Mace
+WP_A_0854	Dragon Greatclaw
+WP_A_0855	Curved Great Club
+WP_A_0856	Prelate's Inferno Crozier
+WP_A_0860	Celebrant's Skull
+WP_A_0861	Pickaxe
+WP_A_0862	Beastclaw Greathammer
+WP_A_0863	Cranial Vessel Candlestand
+WP_A_0864	Great Stars
+WP_A_0865	Brick Hammer
+WP_A_0866	Staff of the Avatar
+WP_A_0867	Fallingstar Beast Jaw
+WP_A_0869	Ghiza's Wheel
+WP_A_0870	Giant-Crusher
+WP_A_0871	Devourer's Scepter
+WP_A_0873	Troll's Hammer
+WP_A_0874	Rotten Staff
+WP_A_0875	Rotten Greataxe
+WP_A_0876	Rotten Battle Hammer
+WP_A_0902	Spear
+WP_A_0905	Crystal Spear
+WP_A_0907	Guardian's Swordspear
+WP_A_0909	Clayman's Harpoon
+WP_A_0910	Cleanrot Spear
+WP_A_0911	Pest's Glaive
+WP_A_0918	Mohgwyn's Sacred Spear
+WP_A_0919	Iron Spear
+WP_A_0921	Partisan
+WP_A_0922	Celebrant's Rib-Rake
+WP_A_0926	Pike
+WP_A_0929	Siluria's Tree
+WP_A_0930	Bolt of Gransax
+WP_A_0932	Cross-Naginata
+WP_A_0933	Death Ritual Spear
+WP_A_0934	Inquisitor's Girandole
+WP_A_0935	Serpent-Hunter
+WP_A_0937	Vyke's War Spear
+WP_A_0938	Lance
+WP_A_0939	Treespear
+WP_A_1002	Lucerne
+WP_A_1003	Banished Knight's Halberd
+WP_A_1004	Commander's Standard
+WP_A_1005	Nightrider Glaive
+WP_A_1006	Longhaft Axe
+WP_A_1007	Ripple Crescent Halberd
+WP_A_1009	Vulgar Militia Saw
+WP_A_1012	Golem's Halberd
+WP_A_1013	Golden Halberd
+WP_A_1014	Glaive
+WP_A_1016	Loretta's War Sickle
+WP_A_1017	Spiked Spear
+WP_A_1019	Dragon Halberd
+WP_A_1020	Gargoyle's Halberd
+WP_A_1021	Rotten Crystal Spear
+WP_A_1022	Gargoyle's Black Halberd
+WP_A_1050	Scythe
+WP_A_1052	Grave Scythe
+WP_A_1053	Halo Scythe
+WP_A_1054	Vulgar Militia Shotel
+WP_A_1057	Winged Scythe
+WP_A_1100	Twinblade
+WP_A_1101	Godskin Peeler
+WP_A_1104	Eleonora's Poleblade
+WP_A_1105	Twinned Knight Swords
+WP_A_1109	Gargoyle's Twinblade
+WP_A_1110	Gargoyle's Black Blades
+WP_A_1150	Caestus
+WP_A_1151	Venomous Fang
+WP_A_1152	Hookclaws
+WP_A_1153	Spiked Caestus
+WP_A_1154	Bloodhound Claws
+WP_A_1157	Katar
+WP_A_1158	Clinging Bone
+WP_A_1159	Veteran's Prosthesis
+WP_A_1162	Grafted Dragon
+WP_A_1163	Raptor Talons
+WP_A_1164	Iron Ball
+WP_A_1165	Cipher Pata
+WP_A_1166	Star Fist
+WP_A_1200	Whip
+WP_A_1203	Thorned Whip
+WP_A_1204	Magma Whip Candlestick
+WP_A_1206	Hoslow's Petal Whip
+WP_A_1207	Giant's Red Braid
+WP_A_1208	Urumi
+WP_A_1250	Flail
+WP_A_1251	Nightrider Flail
+WP_A_1252	Family Heads
+WP_A_1253	Bastard's Stars
+WP_A_1255	Chainlink Flail
+WP_A_1303	Crystal Staff
+WP_A_1307	Gelmir Glintstone Staff
+WP_A_1309	Demi-Human Queen's Staff
+WP_A_1310	Glintstone Staff
+WP_A_1316	Staff of the Guilty
+WP_A_1317	Digger's Staff
+WP_A_1319	Astrologer's Staff
+WP_A_1322	Academy Glintstone Staff
+WP_A_1323	Carian Glintstone Staff
+WP_A_1324	Meteorite Staff
+WP_A_1325	Carian Regal Scepter
+WP_A_1326	Albinauric Staff
+WP_A_1327	Prince of Death's Staff
+WP_A_1328	Carian Glintblade Staff
+WP_A_1329	Staff of Loss
+WP_A_1330	Finger Seal
+WP_A_1331	Godslayer's Seal
+WP_A_1332	Giant's Seal
+WP_A_1333	Gravel Stone Seal
+WP_A_1334	Clawmark Seal
+WP_A_1336	Golden Order Seal
+WP_A_1340	Azur's Glintstone Staff
+WP_A_1341	Lusat's Glintstone Staff
+WP_A_1342	Rotten Crystal Staff
+WP_A_1401	Composite Bow
+WP_A_1402	Red Branch Shortbow
+WP_A_1403	Albinauric Bow
+WP_A_1404	Horn Bow
+WP_A_1405	Misbegotten Shortbow
+WP_A_1406	Shortbow
+WP_A_1407	Golem Greatbow
+WP_A_1408	Lion Greatbow
+WP_A_1410	Longbow
+WP_A_1411	Harp Bow
+WP_A_1413	Erdtree Bow
+WP_A_1414	Serpent Bow
+WP_A_1417	Erdtree Greatbow
+WP_A_1418	Black Bow
+WP_A_1419	Pulley Bow
+WP_A_1420	Greatbow
+WP_A_1501	Soldier's Crossbow
+WP_A_1503	Light Crossbow
+WP_A_1506	Arbalest
+WP_A_1508	Pulley Crossbow
+WP_A_1510	Hand Ballista
+WP_A_1511	Jar Cannon
+WP_A_1512	Heavy Crossbow
+WP_A_1513	Full Moon Crossbow
+WP_A_1514	Crepus's Black-Key Crossbow
+WP_A_2001	Marred Wooden Shield
+WP_A_2002	Banished Knight's Shield
+WP_A_2003	Dragonclaw Shield
+WP_A_2005	Albinauric Shield
+WP_A_2007	Sun Realm Shield
+WP_A_2008	Rickety Shield
+WP_A_2009	Wooden Greatshield
+WP_A_2010	Distinguished Greatshield
+WP_A_2013	Crucible Hornshield
+WP_A_2014	Silver Mirrorshield
+WP_A_2016	Round Shield
+WP_A_2020	Heater Shield
+WP_A_2021	Great Turtle Shell
+WP_A_2024	Shield of the Guilty
+WP_A_2026	Carian Knight's Shield
+WP_A_2030	Blue-Gold Kite Shield
+WP_A_2031	Scorpion Kite Shield
+WP_A_2032	Twinbird Kite Shield
+WP_A_2033	Kite Shield
+WP_A_2035	Inverted Hawk Heater Shield
+WP_A_2036	Eclipse Crest Heater Shield
+WP_A_2037	Blue Crest Heater Shield
+WP_A_2038	Red Crest Heater Shield
+WP_A_2039	Beast Crest Heater Shield
+WP_A_2040	Hawk Crest Wooden Shield
+WP_A_2041	Flame Crest Wooden Shield
+WP_A_2042	Candletree Wooden Shield
+WP_A_2043	Horse Crest Wooden Shield
+WP_A_2044	Large Leather Shield
+WP_A_2045	Black Leather Shield
+WP_A_2098	Buckler
+WP_A_2101	Marred Leather Shield
+WP_A_2103	Perfumer's Shield
+WP_A_2104	Man-Serpent's Shield
+WP_A_2106	Pillory Shield
+WP_A_2108	Red Thorn Roundshield
+WP_A_2109	Scripture Wooden Shield
+WP_A_2110	Riveted Wooden Shield
+WP_A_2111	Blue-White Wooden Shield
+WP_A_2112	Coil Shield
+WP_A_2113	Spiralhorn Shield
+WP_A_2115	Rift Shield
+WP_A_2116	Iron Roundshield
+WP_A_2117	Gilded Iron Shield
+WP_A_2118	Ice Crest Shield
+WP_A_2119	Smoldering Shield
+WP_A_2202	Briar Greatshield
+WP_A_2203	Brass Shield
+WP_A_2206	Erdtree Greatshield
+WP_A_2207	Golden Beast Crest Shield
+WP_A_2208	Dragon Towershield
+WP_A_2211	Jellyfish Shield
+WP_A_2212	Fingerprint Stone Shield
+WP_A_2213	Icon Shield
+WP_A_2214	One-Eyed Shield
+WP_A_2216	Spiked Palisade Shield
+WP_A_2217	Visage Shield
+WP_A_2218	Manor Towershield
+WP_A_2219	Crossed-Tree Towershield
+WP_A_2220	Inverted Hawk Towershield
+WP_A_2221	Ant's Skull Plate
+WP_A_2222	Redmane Greatshield
+WP_A_2223	Eclipse Crest Greatshield
+WP_A_2224	Cuckoo Greatshield
+WP_A_2225	Golden Greatshield
+WP_A_2226	Gilded Greatshield
+WP_A_2227	Haligtree Crest Greatshield
+WP_A_2228	Lordsworn's Shield
+WP_A_3000	Torch
+WP_A_3001	Torchpole
+WP_A_3004	Steel-Wire Torch
+WP_A_3006	St. Trina's Torch
+WP_A_3007	Ghostflame Torch
+WP_A_3008	Sentry's Torch
+WP_A_4014	Envoy's Horn
+WP_A_4015	Envoy's Long Horn
+WP_A_4016	Envoy's Greathorn
+WP_A_503	Beastman's Jar-Shield
+WP_A_7000	Arrow
+WP_A_7010	Bone Arrow
+WP_A_7020	Bone Arrow (Fletched)
+WP_A_7030	Fire Arrow
+WP_A_7040	Serpent Arrow
+WP_A_7050	Dwelling Arrow
+WP_A_7060	St. Trina's Arrow
+WP_A_7110	Golden Arrow
+WP_A_7300	Great Arrow
+WP_A_7310	Golem's Great Arrow
+WP_A_7320	Golden Great Arrow
+WP_A_7330	Golem's Magic Arrow
+WP_A_7340	Radahn's Spear
+WP_A_7350	Bone Great Arrow (Fletched)
+WP_A_7500	Bolt
+WP_A_7520	Perfumer's Bolt
+WP_A_7530	Black-Key Bolt
+WP_A_7570	Bone Bolt
+WP_A_7700	Ballista Bolt
+WP_A_7710	Lightning Greatbolt
+WP_A_7720	Explosive Greatbolt
+WP_A_7730	Meteor Bolt
